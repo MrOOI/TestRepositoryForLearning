@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Najot Ta'lim\\Projects\\LearningGithub\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj": {}
+    "D:\\KOMRON\\Najot_ta'lim\\dot_net\\Projects\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Najot Ta'lim\\Projects\\LearningGithub\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj": {
+    "D:\\KOMRON\\Najot_ta'lim\\dot_net\\Projects\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\LearningGithub\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj",
+        "projectUniqueName": "D:\\KOMRON\\Najot_ta'lim\\dot_net\\Projects\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj",
         "projectName": "TestWebAPI",
-        "projectPath": "D:\\Najot Ta'lim\\Projects\\LearningGithub\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj",
-        "packagesPath": "C:\\Users\\Cracker\\.nuget\\packages\\",
-        "outputPath": "D:\\Najot Ta'lim\\Projects\\LearningGithub\\TestRepositoryForLearning\\TestWebAPI\\obj\\",
+        "projectPath": "D:\\KOMRON\\Najot_ta'lim\\dot_net\\Projects\\TestRepositoryForLearning\\TestWebAPI\\TestWebAPI.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\KOMRON\\Najot_ta'lim\\dot_net\\Projects\\TestRepositoryForLearning\\TestWebAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cracker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Users\\Lenovo\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
